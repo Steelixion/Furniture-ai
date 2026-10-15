@@ -1,4 +1,4 @@
-# Furnish.AI
+# Furnish AI
 
 A high-performance AI interior design tool that lets you visualize furniture in your room using SDXL, ControlNet, and custom LoRAs.
 
